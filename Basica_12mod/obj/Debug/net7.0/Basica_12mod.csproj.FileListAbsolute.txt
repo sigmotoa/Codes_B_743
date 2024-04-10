@@ -1,0 +1,15 @@
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/bin/Debug/net7.0/Basica_12mod
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/bin/Debug/net7.0/Basica_12mod.deps.json
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/bin/Debug/net7.0/Basica_12mod.runtimeconfig.json
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/bin/Debug/net7.0/Basica_12mod.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/bin/Debug/net7.0/Basica_12mod.pdb
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/obj/Debug/net7.0/Basica_12mod.csproj.AssemblyReference.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/obj/Debug/net7.0/Basica_12mod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/obj/Debug/net7.0/Basica_12mod.AssemblyInfoInputs.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/obj/Debug/net7.0/Basica_12mod.AssemblyInfo.cs
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/obj/Debug/net7.0/Basica_12mod.csproj.CoreCompileInputs.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/obj/Debug/net7.0/Basica_12mod.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/obj/Debug/net7.0/refint/Basica_12mod.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/obj/Debug/net7.0/Basica_12mod.pdb
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/obj/Debug/net7.0/Basica_12mod.genruntimeconfig.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Basica_12mod/Basica_12mod/obj/Debug/net7.0/ref/Basica_12mod.dll
